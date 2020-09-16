@@ -1,6 +1,6 @@
 body{
 	top: 60px;
-	background-image: url(https://tt2tap.github.io/tt2/images/bgs/bg17.png);
+	background-image: url(https://sffscorpion.com/tt2/images/bgs/bg17.png);
 	background-repeat: no-repeat;
 	/* background-position: 50% top; */
 	font-family: 'Proza Libre', Arial, sans-serif;
@@ -8,11 +8,8 @@ body{
     background-size: cover;
 }
 .jumbotron{
-	top: 60px;
-	margin-bottom: 1em;
-}
-.album{
-	top: 60px;
+	top: 260px;
+	background-color: rgba(10, 0, 9, 0.88);
 }
 #h1{
 	color: skyblue;
@@ -20,3 +17,27 @@ body{
 	font-weight: bold;
 }
 
+.card{
+	background-color: rgb(1, 92, 115, 0.68);
+}
+
+.card-body{
+	background-color: rgba(90, 88, 88, 0.48);
+	
+}
+
+.col{
+	/* padding: 0; */
+}
+
+.container{
+	height: 90px;
+}
+
+.w-80{width: 80%;}
+.w-90{width: 90%;}
+.w-95{width: 95%;}
+
+#boss{
+	background-color: rgba(90, 88, 88, 0.48);
+}

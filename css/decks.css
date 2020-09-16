@@ -41,3 +41,23 @@ body{
 #boss{
 	background-color: rgba(90, 88, 88, 0.48);
 }
+.card-body{
+	background-color: rgba(90, 88, 88, 0.48);
+	
+}
+
+.col{
+	/* padding: 0; */
+}
+
+.container{
+	height: 90px;
+}
+
+.w-80{width: 80%;}
+.w-90{width: 90%;}
+.w-95{width: 95%;}
+
+#boss{
+	background-color: rgba(90, 88, 88, 0.48);
+}
