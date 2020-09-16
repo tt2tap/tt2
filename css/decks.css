@@ -1,0 +1,43 @@
+body{
+	top: 60px;
+	background-image: url(https://sffscorpion.com/tt2/images/bgs/bg22.png);
+	background-repeat: no-repeat;
+	/* background-position: 50% top; */
+	font-family: 'Proza Libre', Arial, sans-serif;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.jumbotron{
+	top: 260px;
+	background-color: rgba(10, 0, 9, 0.88);
+}
+#h1{
+	color: skyblue;
+	font-size: 3.5em;
+	font-weight: bold;
+}
+
+.card{
+	background-color: rgb(1, 92, 115, 0.68);
+}
+
+.card-body{
+	background-color: rgba(90, 88, 88, 0.48);
+	
+}
+
+.col{
+	/* padding: 0; */
+}
+
+.container{
+	height: 90px;
+}
+
+.w-80{width: 80%;}
+.w-90{width: 90%;}
+.w-95{width: 95%;}
+
+#boss{
+	background-color: rgba(90, 88, 88, 0.48);
+}
